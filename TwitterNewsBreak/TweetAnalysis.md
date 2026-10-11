@@ -21,17 +21,22 @@ Tool(s) used at the time of data collection:
 
 Evidence after data collection: 
 - 439 results that used the same photo. 
-- Fix indexed by TinEye on November 4, 2009
+- First indexed by TinEye on November 4, 2009
+--> Source: https://tineye.com/search/4066a7eb86c9f81000d2551e5fd7a38a82e680fd?sort=crawl_date&order=asc&page=2
 - The oldest found file with the same photo came from November 4, 2009. 
 - A news report that used the same photo discussed the growing fear regarding cars containing "Highly Explosive Chinese AC Fluid" on Aug 5, 2010 at 10:42 AM GMT+9
+--> Source: (Business Insider, 2010) https://www.businessinsider.com/korean-police-warn-60000-cars-may-contain-highly-explosive-chinese-ac-fluid-2010-8
 - Russian domains have utilized this photo, some files including the phrase "Bagdad_explosion" 
+--> Source: ("Число жертв терактов в Багдаде возросло до 31 человека", 2010) https://ria.ru/20100919/277127561.html
 - Some references utilized the phrase "AutobombeIrak," which roughly translates to "Car Bomb Iraq" from German. 
+--> https://de.wikipedia.org/wiki/Geschichte_des_Irak
 - According to the National Defense University's Center For The Study of Weapons of Mass Destruction, the photo is of "A car bomb set off by al-Qaeda in Iraq." The photo was taken by Eli J. Medellin. 
+--> Source: (Center The Study of Weapons of Mass Destruction) https://wmdcenter.ndu.edu/Media/Images/igphoto/2002493919/
 
 
 Analysis:
-This photo was not taken at the time of the event due to the original photo dating back to 2009, and mulitple sources have utilized the photo to describe the war in Iraq. This makes the tweet's description and the photo extremely unlikely to have been connected. 
-Several sources have utilized this photo to describe the situation in Iraq, but there was also another found source that utilized the photo for their own presumably unrelated story, fueling fear as a result of the article. 
+This photo raises extreme suspicion that it was taken at the time of the event based on TinEye's discovery date going back to 2009 (the photo could have been taken at an earlier date), and mulitple sources have utilized the photo to describe the war in Iraq, providing the potential inaccuracy of the tweet itself. This makes the tweet's description and the photo very unlikely to have been connected. 
+Several sources have utilized this photo to describe the situation in Iraq, but there was also another found source that utilized the photo for their own presumably unrelated story. 
 
 Conclusion: 
 This photo and the tweet's description are very likely to not be connected in any way. They focus on two separate events that happened at different locations (Baghdad and Khyber City of Pakistan) and points in time (photo uploaded in 2009 and tweet uploaded in 2023), making it impossible for the same photo to reference the same event that took place in another country. 
