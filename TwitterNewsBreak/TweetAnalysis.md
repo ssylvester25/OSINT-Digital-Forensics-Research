@@ -39,4 +39,4 @@ This photo raises extreme suspicion that it was taken at the time of the event b
 Several sources have utilized this photo to describe the situation in Iraq, but there was also another found source that utilized the photo for their own presumably unrelated story. 
 
 Conclusion: 
-This photo and the tweet's description are very likely to not be connected in any way. They focus on two separate events that happened at different locations (Baghdad and Khyber City of Pakistan) and points in time (photo uploaded in 2009 and tweet uploaded in 2023), making it impossible for the same photo to reference the same event that took place in another country. 
+This photo and the tweet's description are very likely to not be connected in any way. They focus on two separate events that happened at different locations (Baghdad and Khyber City of Pakistan) and points in time (photo uploaded in 2009 and tweet uploaded in 2023), making it nearly impossible for the same photo to reference the same event that took place in another country. 
