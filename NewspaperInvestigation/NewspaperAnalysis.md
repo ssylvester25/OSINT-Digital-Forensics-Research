@@ -7,13 +7,13 @@ Background Information:
 The photo of the Chinese newspaper was taken from an article of the Epoch Times. The questions that I sought to answer 1. What was the audience applauding? 2. When was the photo taken? 3. What is the name of the vanue?
 
 Evidence: 
-Title of the article: ''神韻造福全世界一
+- Title of the article: ''神韻造福全世界一
 美歐7城同演全爆滿'' (roughly translates to ''Shen Yun brings blessings to the whole world'')
-Website to the newspaper company: www.dajiyuan.co.uk (when the website is entered into a web browser, the link changes to https://www.epochtimes.com/b5/ncid1143938.htm, a Chinese website)
-A large photo of a crowd of people clapping, a predominately Caucasian crowd. 
-In the right column, there is a smaller photo of three individuals: a perceived White man with glasses, a small scarf, a blue shirt, and a jacket; a smaller, young White girl with brown hair; a slightly taller woman with tan skin and a white shirt with a red coat / sweater. 
-Right-most column is titled: 德國企業老闆讚: 神韻展示傳統價值 彌足珍貴 勇氣可嘉 (roughly translated to ''A German business owner praised Shen Yun, saying it showcased invaluable traditional values ​​and demonstrated commendable courage.'')
-Right-most column information: 
+- Website to the newspaper company: www.dajiyuan.co.uk (when the website is entered into a web browser, the link changes to https://www.epochtimes.com/b5/ncid1143938.htm, a Chinese website)
+- A large photo of a crowd of people clapping, a predominately Caucasian crowd. 
+- In the right column, there is a smaller photo of three individuals: a perceived White man with glasses, a small scarf, a blue shirt, and a jacket; a smaller, young White girl with brown hair; a slightly taller woman with tan skin and a white shirt with a red coat / sweater. 
+- Right-most column is titled: 德國企業老闆讚: 神韻展示傳統價值 彌足珍貴 勇氣可嘉 (roughly translated to ''A German business owner praised Shen Yun, saying it showcased invaluable traditional values ​​and demonstrated commendable courage.'')
+- Right-most column information: 
 (Important to note: The text that was gathered from the photo may not be completely accurate)
 德國百年家族企業老闆 Michael Hinterseer 一家。(安然/大紀元)
 Michael Hinterseer與妻子 Kichel Blanco 共同經營一家百年 家族建材公司,他們當天和女兒一 起觀賞了美國神頭環球藝術團在德 國柏林波茨坦廣場劇院的演出。 神龍以復興中國傳統文化為宗 旨,讓Huglerseer 產生了共鳴,他 說,「這些傳統價值觀非常重要, 在演出中被很好地展現了出來,這 令我印象深刻。」
