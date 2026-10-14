@@ -3,6 +3,11 @@
 * link to OSINT Exercise: https://gralhix.com/list-of-osint-exercises/osint-exercise-008/ *
 * WARNING: This report is solely for practice with OSINT. This is not intended to fear-monger or slander anyone or any group. All information was gathered from public sources.
 
+Tools used for this research / investigation: 
+* Google Translate (https://translate.google.com/)
+* Picture To Text (https://www.picturetotext.org/)
+* Google.com
+
 Background Information:
 The photo of the Chinese newspaper was taken from an article of the Epoch Times. The questions that I sought to answer 1. What was the audience applauding? 2. When was the photo taken? 3. What is the name of the vanue?
 
@@ -21,3 +26,33 @@ Hinterseer 還喜歡神戀展現信 你和神性的內涵,這對我們歐洲 人
 Hinterseer 的太太 Kiobel Blaneo說:「還實際上是我們所有 人都要做的,讓傳統保持活力,並 將其傳遞給我們的輪子,但現在 由於媒體的宣傳,有些傳統價 值觀丢失了,神能觸及到這個 問題,你看到了家庭正在分裂,沒 --> (Roughly translates to ''Michael Hinterseer and his family, owners of a century-old German family business. (Anran/Epoch Times) Michael Hinterseer and his wife Kichel Blanco run a century-old family building materials company. On that day, they and their daughter watched a performance by the American Godhead Global Arts Company at the Potsdamer Platz Theatre in Berlin, Germany. Huglerseer resonated with the performance of Shenlong, which aims to revive traditional Chinese culture. He said, "These traditional values ​​are very important, and they were beautifully presented in the performance, which impressed me greatly."
 
 "Hinterseer also appreciates Shenlong's portrayal of faith and divinity. This is certainly different for us Europeans, but on the other hand, I think it's very good. The performance highlighted these divine connotations and presented them through dance and artistic expression, which was impressive and courageous." Hinterseer's wife, Kiobel Blaneo, said, "It's actually something we all need to do: keep tradition alive and pass it on to our wheels. But now, due to media hype, some traditional values ​​have been lost. Shenlong touches on this issue; you see families are splitting apart.")
+
+Analysis:
+- After translating the text, the audience must have been applauding from the Shen Yun Performance. In addition to having a paper copy of the article, there is also a website. Using the same title from the newspaper, we are able to find an online article that can give us a bit more information (https://www.epochtimes.com/b5/23/1/8/n13902211.htm). According to the article, there were performances that occurred on the same day, January 7, "across seven cities across the United States and Europe." These performances were in San Francisco, Atlanta, Norfolk, Austin, Dallas, Berlin, and the United Kingdom. As a result, this photo must have been taken on January 7, 2023. 
+- From these seven locations, all venues were checked to see if it matched the photo from the photo in the article. 
+## Berlin: Stage Theater am Potdamer Platz
+- Result: Negative
+- There are many red seats. However, the balconies are starkly different. The balconies in the photo are white, but the balconies in Berlin are red and more "square."
+## United Kingdom: The International Convention Centre
+- Result: Negative
+- There are red seats, but the general interior is greatly different from the one in the photo. The interior of this venue contains more of a "paler wood-like finish."
+
+## San Francisco: War Memorial Opera House
+- Result: Negative
+- There are red seats, but the decorations on the walls and the height of the balconies are drastically different from the photo. 
+
+## Atlanta: Atlanta Symphony Hall
+- Result: Negative
+- There are red seats, but the walls are white. 
+
+## Norfolk: Chrysler Hall 
+- Result: Positive
+- The balconies are white and rounded, red seats, and the walls appear to have a dark brown-wooden finish. This is a very good indicator that this is the location in which the photo was taken. 
+
+## Austin: Long Center for the Performing Arts
+- Result: Negative
+- The balconies have red detailing, the seats appear to have pale white and red colors, and the walls do not appear to have a "wooden finish."
+
+## Dallas: AT&T Performing Arts Center – Winspear Opera House
+- Result: Negative
+- The photo showcases 2 floors for the balconies. However, at this venue, there are 4 floors for the balconies, a striking difference from the original photo. Also, the seats are gray. 
