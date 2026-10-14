@@ -24,4 +24,4 @@ DeviantArt.com (https://www.deviantart.com/adamscythe/journal/New-Commission-Inf
 --> This appeared to be a DeviantArt page that belongs to AdamScythe, matching the name of the creator of the art piece. This drawing was found under the category "Complete Illustation A (character plus background): starts at $190 (depends on the details)." As a result, the cost for a similar piece by the artist would be around $190. 
 
 ## Analysis / Conclusion:
-- From the found evidence, the desktop wallpaper was a drawing titled, "Involuntary Rat Queen" by Adamn Acythe. It was created on November 25, 2022, and this information could be found on Scythe's DeviantArt commissions page that advertises artwork with prices. Based on the artist's commission information, the general price for a similar piece would be $190. 
+- From the found evidence, the desktop wallpaper was a drawing titled, "Involuntary Rat Queen" by Adam Scythe. It was created on November 25, 2022, and this information could be found on Scythe's DeviantArt commissions page that advertises artwork with prices. Based on the artist's commission information, the general price for a similar piece would be $190. 
